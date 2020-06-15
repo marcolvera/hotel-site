@@ -1,0 +1,18 @@
+#navBar {
+    background-color: rgb(41, 41, 41);
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.navLinks {
+    color: white;
+    text-decoration: none;
+}
+
+:hover.navLinks {
+    color: rgb(241, 150, 46);
+}
+

@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <Switch>
-        <Route exact path = '/home' render = {() =>
+        <Route exact path = '/' render = {() =>
           <Home />
         }/>
         <Route exact path = '/about' render = {() =>
