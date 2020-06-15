@@ -1,0 +1,29 @@
+.showContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://i.imgur.com/pODj2Cr.jpg);
+    background-size: cover;
+    height: 20rem;
+    background-position: center;
+    color: white;    
+    padding-top: 8rem;
+   
+}
+
+.content {
+    text-align: center;
+}
+
+.color {
+    color: rgb(241, 150, 46);
+}
+
+h1 {
+    font-size: 3rem;
+    
+}
+
+p {
+    font-size: 1.1rem;
+}

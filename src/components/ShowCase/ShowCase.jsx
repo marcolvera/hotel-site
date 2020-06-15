@@ -1,17 +1,26 @@
 import React from 'react';
-import './ShowCase.css';
+import styles from './ShowCase.module.css';
 
 const ShowCase = () => {
     return (
-        <div id='showContainer'>
-            <h1><span>Enjoy</span> Your Stay</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut tempore voluptas, 
-            eligendi ad ducimus expedita quidem quasi aliquam id? Distinctio!
-            </p>
+        <div>
+            <div className={styles.showContainer}>
+                <div className={styles.content}>
+                    <h1><span className={styles.color}>Enjoy</span> Your Stay</h1>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut tempore voluptas, 
+                    eligendi ad ducimus expedita quidem quasi aliquam id? Distinctio!
+                    </p>
+                </div>
+                <div>
+                    <input placeholder='Search By City...' type="text"/>
+                </div>
+            </div>
         </div>
     )
 }
 
 export default ShowCase;
+
+
        
         
