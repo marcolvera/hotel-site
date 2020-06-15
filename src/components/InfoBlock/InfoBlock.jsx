@@ -3,7 +3,12 @@ import styles from './InfoBlock.module.css';
 
 const InfoBlock = () => {
     return(
-        <div><h1>Hello World</h1></div>
+        <div>
+            <div className={styles.container}>
+                <div className={styles.block1}>Hello World</div>
+                <div className={styles.block2}>Hello World</div>
+            </div>
+        </div>
     )
 };
 

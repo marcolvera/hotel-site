@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.block1 {
+    background-color: orange;
+    padding: 3rem 20rem;
+}
+
+.block2 {
+    background-color: gray;
+    padding: 3rem 20rem;
+}
