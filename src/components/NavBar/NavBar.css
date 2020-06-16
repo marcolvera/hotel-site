@@ -1,6 +1,6 @@
 #navBar {
     background-color: rgb(41, 41, 41);
-    padding: 2rem;
+    padding: 1.8rem;
     display: flex;
     justify-content: space-between;
 }
@@ -10,7 +10,7 @@
 .navLinks {
     color: white;
     text-decoration: none;
-    padding: 2rem 1rem;
+    padding: 1.8rem 1rem;
 }
 
 :hover.navLinks {

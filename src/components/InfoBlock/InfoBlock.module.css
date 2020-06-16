@@ -5,11 +5,32 @@
 }
 
 .block1 {
-    background-color: orange;
-    padding: 3rem 20rem;
+ 
+    background-size: cover;
+    background-position: bottom;
+}
+
+img {
+    width: 45rem;
+    height: 18rem;
+}
+
+span {
+    color: rgb(241, 150, 46);
+}
+
+h4 {
+    font-size: 1.5rem;
 }
 
 .block2 {
-    background-color: gray;
-    padding: 3rem 20rem;
+    background-color: rgb(41, 41, 41);
+   
+}
+
+.content {
+   
+    color: white;
+    text-align: center;
+    
 }
