@@ -3,6 +3,7 @@ import NavBar from '../../components/NavBar/NavBar';
 import ShowCase from '../../components/ShowCase/ShowCase';
 import InfoBlock from '../../components/InfoBlock/InfoBlock';
 import InfoSection from '../../components/InfoSection/InfoSection';
+import Footer from '../../components/Footer/Footer';
 
 const Home = () => {
     return (
@@ -11,6 +12,7 @@ const Home = () => {
             <ShowCase />
             <InfoBlock />
             <InfoSection />
+            <Footer />
         </div>
     )
 }
