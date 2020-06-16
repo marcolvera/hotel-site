@@ -1,0 +1,21 @@
+.container {
+    background-image: url(https://i.imgur.com/1j08VFi.jpg);
+    padding: 6rem;
+    background-size: cover;
+    background-position: center;
+    margin-top: 2rem;
+}
+
+.h1 {
+    margin-left: 3rem;
+    margin-top: -4rem;
+}
+
+.box{
+    background-color: rgb(241, 150, 46);
+    display: inline-block;
+    margin: 2rem 0 0 3rem;
+    border-radius: 1rem;
+    height: 5rem;
+   
+}
