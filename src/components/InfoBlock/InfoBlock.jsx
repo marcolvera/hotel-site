@@ -6,7 +6,7 @@ const InfoBlock = () => {
         <div>
             <div className={styles.container}>
                 <div className={styles.block1}> 
-                    <img src="https://i.imgur.com/f69CzXA.png" alt=""/>
+                    {/* <img src="https://i.imgur.com/f69CzXA.png" alt=""/> */}
                 </div>
                 <div className={styles.block2}>
                     <div className={styles.content}>

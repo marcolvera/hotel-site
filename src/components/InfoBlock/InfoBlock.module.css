@@ -5,9 +5,11 @@
 }
 
 .block1 {
- 
+    background-image: url(https://i.imgur.com/f69CzXA.png);
     background-size: cover;
-    background-position: bottom;
+    background-position: top;
+    width: 100rem;
+    height: 15rem;
 }
 
 img {
@@ -25,6 +27,9 @@ h4 {
 
 .block2 {
     background-color: rgb(41, 41, 41);
+    width: 100rem;
+    height: 15rem;
+
    
 }
 
