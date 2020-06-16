@@ -25,6 +25,22 @@ h4 {
     font-size: 1.5rem;
 }
 
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+:hover.btn {
+    background-color:  rgb(241, 150, 46);
+}
+
+.btn {
+    background-color: gray;
+    display: inline-block;
+    height: 3.5rem;
+    width: 8rem;
+}
+
 .block2 {
     background-color: rgb(41, 41, 41);
     width: 100rem;
