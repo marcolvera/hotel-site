@@ -37,8 +37,9 @@ h4 {
 .btn {
     background-color: gray;
     display: inline-block;
-    height: 3.5rem;
-    width: 8rem;
+    padding: .1rem 2rem;
+    /* height: 3.5rem; */
+    /* width: 8rem; */
 }
 
 .block2 {

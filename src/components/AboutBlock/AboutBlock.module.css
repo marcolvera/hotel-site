@@ -6,9 +6,7 @@
 }
 
 .img {
-    border-radius: 1rem;
+    border-radius: .1rem;
+    max-width: 35rem;
 }
 
-.h1 {
-    margin-left: 3rem;
-}

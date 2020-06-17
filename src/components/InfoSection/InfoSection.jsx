@@ -14,21 +14,21 @@ const InfoSection = () => {
                         <LocationCityIcon style={{fontSize: 60}} />
                     </div>
                     <h3>Search by Location</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, magnam. Molestias aperiam suscipit eaque inventore.</p>
+                    <p className={styles.p}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, magnam. Molestias aperiam suscipit eaque inventore.</p>
                 </div>
                 <div className={styles.orange}>
                     <div className={styles.icon}>
                         <AttachMoneyIcon style={{fontSize: 60}} />
                     </div>
                     <h3>Compare Prices</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum molestias quibusdam sequi? Commodi, inventore id!</p>
+                    <p className={styles.p}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum molestias quibusdam sequi? Commodi, inventore id!</p>
                 </div>
                 <div className={styles.white}>
                     <div className={styles.icon}>
                         <FitnessCenterIcon style={{fontSize: 60}} />
                     </div>
                     <h3>View Amenities</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum molestias quibusdam sequi? Commodi, inventore id!</p>
+                    <p className={styles.p}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum molestias quibusdam sequi? Commodi, inventore id!</p>
                 </div>
             </div>
         </div>
