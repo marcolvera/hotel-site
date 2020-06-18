@@ -1,5 +1,15 @@
 .footer {
-    background-color: rgb(196, 196, 196);
+    background-color:  rgb(36, 43 ,48);;
     text-align: center;
     padding: .1rem;
+}
+
+.p {
+    font-size: small;
+    color: white;
+}
+
+.h5 {
+    color: rgb(241, 150, 46);
+    font-size: 1rem;
 }

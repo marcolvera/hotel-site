@@ -3,7 +3,10 @@ import styles from './Footer.module.css'
 
 const Footer = () => {
     return(
-        <div className={styles.footer}><h5>CopyRight&copy;Hotel</h5></div>
+        <div className={styles.footer}>
+            <p className={styles.p}>Hotel Site is not responsible for information on external sites. CopyRight&copy;Hotel Site</p>
+            <h5 className={styles.h5}>Hotel Site</h5>
+        </div>
     )
 };
 
