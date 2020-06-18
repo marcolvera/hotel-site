@@ -2,22 +2,47 @@
     text-align: center;
 }
 
-.img {
-    background-image: url(https://i.imgur.com/ybSo7Va.jpg);
-    padding: 7rem 0 6rem 6rem;
-    background-position: center;
-    background-size: cover;
+.container {
     display: flex;
-    justify-content: left;
-    
+    justify-content: space-around;
 }
 
-.box {
+.box1 {
     background-color: white;
-    background-image: url(https://i.imgur.com/7s6REFB.jpg);
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0),
+        rgb(63, 63, 63)
+      ),
+    url(https://i.imgur.com/1CsnBui.jpg);
     background-size: cover;
     height: 20rem;
-    width: 30rem;
+    width: 28rem;
+    text-align: center;
+}
+.box2 {
+    background-color: white;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0),
+        rgb(63, 63, 63)
+      ),
+    url(https://i.imgur.com/qupWuyA.jpg);
+    background-size: cover;
+    height: 20rem;
+    width: 28rem;
+    text-align: center;
+    background-position: bottom;
+}
+.box3 {
+    background-color: white;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0),
+        rgb(63, 63, 63)
+      ),
+    url(https://i.imgur.com/6emEmhA.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height: 20rem;
+    width: 28rem;
     text-align: center;
 }
 
