@@ -1,0 +1,27 @@
+.h1 {
+    text-align: center;
+}
+
+.img {
+    background-image: url(https://i.imgur.com/ybSo7Va.jpg);
+    padding: 7rem 0 6rem 6rem;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: left;
+    
+}
+
+.box {
+    background-color: white;
+    background-image: url(https://i.imgur.com/7s6REFB.jpg);
+    background-size: cover;
+    height: 20rem;
+    width: 30rem;
+    text-align: center;
+}
+
+.content {
+   padding-top: 12rem;
+   color: white;
+}
