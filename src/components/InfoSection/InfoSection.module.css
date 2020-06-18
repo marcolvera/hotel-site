@@ -2,17 +2,21 @@
     display: flex;
     justify-content: space-evenly;
     text-align: center;
+
     
 }
 
 .white {
     width: 30rem;
+    /* height: 20rem; */
+    padding: 2rem 0;
     
 }
 
 .orange {
     width: 30rem;
     background-color:  rgb(241, 150, 46);
+    padding: 2rem 0;
 }
 
 .icon {

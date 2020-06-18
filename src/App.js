@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import Home from './pages/Home/Home';
 import About from './pages/About/About';
-import Contact from './pages/Contact/Contact';
+import Contact from './pages/Explore/Explore';
 
 
 
@@ -16,7 +16,7 @@ function App() {
         <Route exact path = '/about' render = {() =>
           <About />
         }/>
-        <Route exact path = '/contact' render = {() =>
+        <Route exact path = '/explore' render = {() =>
           <Contact />
         }/>
       </Switch>
