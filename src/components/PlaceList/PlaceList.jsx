@@ -19,7 +19,7 @@ const PlaceList = () => {
                     <h5 className={styles.link}>Miami</h5>
                 </div>
                 <div className={styles.rows}>
-                    <h5 className={styles.link}>Washinton</h5>
+                    <h5 className={styles.link}>Washington</h5>
                     <h5 className={styles.link}>San Fransico</h5>
                     <h5 className={styles.link}>Gulf Shores</h5>
                     <h5 className={styles.link}>Honolulu</h5>
@@ -28,7 +28,7 @@ const PlaceList = () => {
                     <h5 className={styles.link}>Texas</h5>
                     <h5 className={styles.link}>New Jersey</h5>
                     <h5 className={styles.link}>Illinios</h5>
-                    <h5 className={styles.link}>Main</h5>
+                    <h5 className={styles.link}>Maine</h5>
                 </div>
             </div>
         </div>
