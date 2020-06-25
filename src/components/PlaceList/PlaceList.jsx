@@ -28,7 +28,7 @@ const PlaceList = () => {
                     <h5 className={styles.link}>Texas</h5>
                     <h5 className={styles.link}>New Jersey</h5>
                     <h5 className={styles.link}>Illinios</h5>
-                    <h5 className={styles.link}>Maine</h5>
+                    <h5 className={styles.link}>San Diego</h5>
                 </div>
             </div>
         </div>
