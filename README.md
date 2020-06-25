@@ -14,7 +14,7 @@ Hotel page is website where users will be able to search for hotels by location.
 
 ## Link 
 
-https://github.com/marcolvera/hotel-site
+https://hotel-page.herokuapp.com/
 
 ## Next Steps 
 
