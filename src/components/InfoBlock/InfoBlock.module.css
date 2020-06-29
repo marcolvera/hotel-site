@@ -55,3 +55,15 @@ h4 {
     text-align: center;
     
 }
+
+/* Phone */ 
+@media (max-width: 500px) {
+    .container {
+        flex-direction: column;
+        display: flex;
+    }
+
+    .block1 {
+        width: 100%;
+       }
+}
