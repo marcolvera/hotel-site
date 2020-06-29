@@ -28,7 +28,12 @@
 /* Tablet */
 @media (min-width: 501px) and (max-width: 768px) {
     .navLinks {
-        padding: 1rem .6rem;
+        padding: 1rem 0;
+    }
+
+    #navBar {
+        padding: 1.3rem 0;
+        width: 100%;
     }
 }
 

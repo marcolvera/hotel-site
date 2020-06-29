@@ -11,7 +11,7 @@ const ShowCase = () => {
                     eligendi ad ducimus expedita quidem quasi aliquam id? Distinctio!
                     </p>
                 </div>
-                <div>
+                <div className={styles.inputBox}>
                     <input placeholder='Search By City...' type="text"/>
                 </div>
             </div>

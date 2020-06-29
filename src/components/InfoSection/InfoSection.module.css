@@ -25,3 +25,25 @@
 .p {
     margin: 1rem 3rem;
 }
+
+
+/* Phone */
+@media (max-width: 500px){
+    .container {
+        flex-direction: column;
+    }
+
+    .orange {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .white {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .p {
+        margin: 0;
+    }
+}

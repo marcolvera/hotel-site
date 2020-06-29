@@ -34,4 +34,23 @@ input {
     
 }
 
+/* Phone */
+@media (max-width: 500px) {
+    input {
+        width: 17rem;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+    .inputBox {
+        text-align: center  ;
+    }
+}
+
 

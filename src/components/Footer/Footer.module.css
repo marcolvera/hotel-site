@@ -1,7 +1,7 @@
 .footer {
     background-color:  rgb(36, 43 ,48);;
     text-align: center;
-    padding: .1rem;
+    padding: .1rem 0;
     bottom: 0;
 }
 
@@ -13,4 +13,11 @@
 .h5 {
     color: rgb(241, 150, 46);
     font-size: 1rem;
+}
+
+/* Phone */
+@media (max-width: 500px) {
+    .footer{
+        width: 100%;
+    }
 }
