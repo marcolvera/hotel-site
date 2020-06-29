@@ -47,3 +47,20 @@
         margin: 0;
     }
 }
+
+/* Tablet */ 
+@media (min-width: 501px) and (max-width: 768px){
+   .orange {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .white {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .p {
+        margin: 0;
+    }
+}
