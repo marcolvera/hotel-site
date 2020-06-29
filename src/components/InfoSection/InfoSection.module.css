@@ -64,3 +64,20 @@
         margin: 0;
     }
 }
+
+/* Normal */ 
+@media (min-width: 769px) and (max-width: 1200px) {
+    .orange {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .white {
+        width: 100%;
+        padding: 1rem 0;
+    }
+
+    .p {
+        margin: 0;
+    }
+}
