@@ -3,7 +3,7 @@ import styles from './PlaceList.module.css';
 
 const PlaceList = () => {
     return(
-        <div>
+        <div className={styles.box}>
             <h1 className={styles.h1}>Explore Destinations</h1>
             <div className={styles.container}>
                 <div className={styles.rows}>

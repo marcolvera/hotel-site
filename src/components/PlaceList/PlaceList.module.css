@@ -20,7 +20,11 @@
 }
 
 :hover.link {
-    color: rgb(241, 150, 46);
+    color: white;
     
+}
+
+.box {
+    background-color: rgb(241, 150, 46);
 }
 
