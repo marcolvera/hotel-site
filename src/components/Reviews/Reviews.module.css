@@ -21,3 +21,18 @@
    
 }
 
+/* Phone */
+@media (max-width: 500px) {
+    .h1 {
+        margin-top: -6rem;
+        margin-left: 1rem;
+        color: white;
+        text-shadow: 1px 1px black;
+    }
+
+    .box {
+        margin: 1rem
+    }
+
+}
+

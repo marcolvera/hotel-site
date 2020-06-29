@@ -7,6 +7,18 @@
 
 .img {
     border-radius: .1rem;
-    max-width: 35rem;
+    width: 35rem;
+}
+
+/* Phone */ 
+@media (max-width: 500px) {
+    .container {
+        flex-direction: column;
+        margin: 2rem 1rem;
+    }
+
+    .img {
+        width: 100%;
+    }
 }
 
