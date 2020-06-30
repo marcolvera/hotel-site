@@ -22,3 +22,16 @@
     }
 }
 
+/* Tabler */
+@media (min-width: 501px) and (max-width: 768px) {
+    .img {
+        width: 95%;
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+
+    .container {
+        margin: 2rem 2rem 0 2rem;
+    }
+}
+
