@@ -23,6 +23,10 @@
     .navLinks {
         padding: 0rem .5rem;
     }
+    #navBar {
+        position: fixed;
+        top: 0;
+    }
 }
 
 /* Tablet */
