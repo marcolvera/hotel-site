@@ -55,6 +55,7 @@
 @media (max-width: 500px) {
     .container {
         flex-direction: column;
+        margin-top: 2rem;
     }
 
     .box1 {
@@ -73,5 +74,10 @@
     .content {
         padding-top: 6rem;
         font-size: 1.4rem;
+    }
+
+    .h1 {
+        font-size: 1.6rem;
+        margin-top: 5rem;
     }
 }
