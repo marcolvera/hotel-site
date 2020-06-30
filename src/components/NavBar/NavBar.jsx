@@ -9,7 +9,7 @@ const NavBar = () => {
                 <div>
                     <Link to='/' className='navLinks'>Hotel Site</Link>
                 </div>
-                <div>
+                <div id='link-div'>
                     <Link to='/' className='navLinks'>Home</Link>
                     <Link to='/about' className='navLinks'>About</Link>
                     <Link to='/explore' className='navLinks'>Explore</Link>
@@ -17,10 +17,11 @@ const NavBar = () => {
             </div>
         </div>
     )
-}
+}   
 
 
 export default NavBar;
+                    
                     
                    
 

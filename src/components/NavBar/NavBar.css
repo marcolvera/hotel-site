@@ -21,11 +21,14 @@
 /* Phone */
 @media (max-width:500px) {
     .navLinks {
-        padding: 0rem .5rem;
-    }
+        padding: .5rem  .5rem;
+     }
+
     #navBar {
         position: fixed;
         top: 0;
+        width: 100%;
+        padding: 1.4rem 0;
     }
 }
 
