@@ -28,3 +28,14 @@
     background-color: rgb(241, 150, 46);
 }
 
+/* Phone */
+@media (max-width:500px) {
+    .container {
+        margin: 0 1rem;
+    }
+
+    .rows {
+        font-size: 1rem;
+    }
+}
+
