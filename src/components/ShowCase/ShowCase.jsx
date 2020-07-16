@@ -10,8 +10,6 @@ const ShowCase = () => {
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut tempore voluptas, 
                     eligendi ad ducimus expedita quidem quasi aliquam id? Distinctio!
                     </p>
-                </div>
-                <div className={styles.inputBox}>
                     <input placeholder='Search By City...' type="text"/>
                 </div>
             </div>
@@ -20,6 +18,8 @@ const ShowCase = () => {
 }
 
 export default ShowCase;
+               
+                
 
 
        
